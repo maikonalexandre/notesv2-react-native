@@ -5,17 +5,6 @@
   
 </div>
 
-## 📚 Informações sobre o projeto
-Este projeto foi feito com intuito de colocar em prática meus conhecimentos em react-native. Se consiste em uma aplicação de notas simples onde há uma tela home com todas as notas criadas, uma tela para criação de notas e uma para atualização.
-
-## 📚 Como voce pode ajudar no projeto / o qeu pode ser melhorado.
-- Criar temas de cores para cada card de nota. O usuario poderia selecionar uma cor no momento da criação das notas.
-- Remover alguns micro bugs visuais, ex: quando o teclado sobe existe uma sombra branca embaixo do mesmo.
-- Trocando o sistema de armazenamento, hoje é utilizado o async storage, que já esta depreciado inclusivo. Sugiro a utilização de MMKV, RealmDb entre outros...
-- Sistema de busca
-- Entre outros... Divirta-se.
-
-
 ## ⚙️ Instalação
 ```
 # Abra um terminal e copie este repositório com o comando
@@ -28,6 +17,18 @@ $ yarn
 # Inicie a aplicação
 $ yarn dev
 ```
+
+## 📚 Informações sobre o projeto
+Este projeto foi feito com intuito de colocar em prática meus conhecimentos em react-native. Se consiste em uma aplicação de notas simples onde há uma tela home com todas as notas criadas, uma tela para criação de notas e uma para atualização.
+
+
+
+## :pencil2: O que pode ser melhorado.
+- Criar temas de cores para cada card de nota. O usuario poderia selecionar uma cor no momento da criação das notas.
+- Remover alguns micro bugs visuais, ex: quando o teclado sobe existe uma sombra branca embaixo do mesmo.
+- Trocando o sistema de armazenamento, hoje é utilizado o async storage, que já esta depreciado inclusivo. Sugiro a utilização de MMKV, RealmDb entre outros...
+- Sistema de busca
+- Entre outros... Divirta-se.
 
 ## 🛠️ Tecnologias/Ferramentas utilizadas
 
