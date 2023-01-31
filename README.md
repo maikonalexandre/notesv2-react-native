@@ -1,5 +1,9 @@
-# notesv2 :notes
+# :page_facing_up: notesv2 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/86725282/215838044-57e09d65-4a10-4edd-b442-d65a52b2026e.png)
+  
+</div>
 
 ## 📚 Informações sobre o projeto
 
