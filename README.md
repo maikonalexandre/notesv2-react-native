@@ -27,7 +27,7 @@ Este projeto foi feito com intuito de colocar em prática meus conhecimentos em 
 - Criar temas de cores para cada card de nota. O usuario poderia selecionar uma cor no momento da criação das notas.
 - Remover alguns micro bugs visuais, ex: quando o teclado sobe existe uma sombra branca embaixo do mesmo.
 - Trocando o sistema de armazenamento, hoje é utilizado o async storage, que já esta depreciado inclusivo. Sugiro a utilização de MMKV, RealmDb entre outros...
-- Sistema de busca
+- Sistema de busca.
 - Entre outros... Divirta-se.
 
 ## 🛠️ Tecnologias/Ferramentas utilizadas
