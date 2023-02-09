@@ -28,7 +28,7 @@ Este projeto foi feito com intuito de colocar em prática meus conhecimentos em 
 - Remover alguns micro bugs visuais, ex: quando o teclado sobe existe uma sombra branca embaixo do mesmo.
 - Trocando o sistema de armazenamento, hoje é utilizado o async storage, que já esta depreciado inclusivo. Sugiro a utilização de MMKV, RealmDb entre outros...
 - Sistema de busca.
-- Entre outros... Divirta-se.
+- Entre outros... Divirta-se
 
 ## 🛠️ Tecnologias/Ferramentas utilizadas
 
