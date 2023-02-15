@@ -19,7 +19,7 @@ $ yarn dev
 ```
 
 ## 📚 Informações sobre o projeto
-Este projeto foi feito com intuito de colocar em prática meus conhecimentos em react-native. Se consiste em uma aplicação de notas simples onde há uma tela home com todas as notas criadas, uma tela para criação de notas e uma para atualização.
+Este projeto foi feito com intuito de colocar em prática meus conhecimentos em react-native. Se consiste em uma aplicação de notas simples onde há uma tela home com todas as notas criadas, uma tela para criação de notas e uma para atualização
 
 
 
